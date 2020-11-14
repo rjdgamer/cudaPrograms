@@ -1,0 +1,2 @@
+C:\Users\Jordan\OneDrive\Documents\GitHub\CUDAProjects\cube\x64\Debug\cube.exe
+C:\Users\Jordan\OneDrive\Documents\GitHub\CUDAProjects\cube\x64\Debug\cube.pdb
